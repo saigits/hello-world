@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+    <label for="Name"><b>Enter Your Middle Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
+
     <label for="Name"><b>Enter Your Last Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
