@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New DevOps Engineer Registartion for DevOps Deployment</h1>
-    <p>Please fill in this form to create an account for the auto deployment.</p>
+    <p>Please fill in this form to test the auto deployment.</p>
     <hr>
      
     <label for="Name"><b>Enter Your First Name</b></label>
